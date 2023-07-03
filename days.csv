@@ -1,0 +1,14 @@
+Entry,Entry airport,Exit,Exit airport,Number of days,Days within last 180 days,,
+"Aug 9, 2021",CDG,"Aug 20, 2021",CDG,12,0,,
+"Dec 20, 2021",CDG,"Jan 19, 2022",CDG,31,0,,
+"Jun 6, 2022",BRU,"Jun 26, 2022",BRU,21,0,,
+"Feb 2, 2023",BRU,"Feb 7, 2023",BRU,6,6,,
+"Apr 30, 2023",AMS,"May 27, 2023",BRU,28,34,,180 days ago
+"Jun 5, 2023",BRU,"Jun 26, 2023",BRU,22,56,,"Jan 4, 2023"
+"Jul 7, 2023",FRA,"Jul 24, 2023",WAW,18,74,,
+"Aug 26, 2023",Thessaloniki,"Sep 1, 2023",SKG,7,81,,Days within last 180 days
+"Sep 10, 2023",BRU,"Sep 19, 2023",TBD,10,91,,81
+"Oct 24, 2023",BRU,"Oct 31, 2023",TBD,8,99,,
+,,,,93,435,,
+,,,,,,,
+,,"Jul 7, 2023","Jan 8, 2023",,91,,
